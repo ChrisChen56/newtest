@@ -1,7 +1,7 @@
 
 public class Triangle
 {
-	public static String determineTriangleV1 (int a, int b, int c)
+	public static String decideangel (int a, int b, int c)
 	{
 		if ((a <= 0) || (b <= 0) || (c <= 0))
 		{
