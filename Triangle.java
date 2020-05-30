@@ -1,7 +1,11 @@
 
 public class Triangle
 {
+<<<<<<< HEAD
 	public static String oneninela (int a, int b, int c)
+=======
+	public static String tryangel (int a, int b, int c)
+>>>>>>> creature
 	{
 		if ((a <= 0) || (b <= 0) || (c <= 0))
 		{
